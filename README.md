@@ -10,7 +10,8 @@ https://github.com/SoftInstigate/RESTHeart/releases
 mongod.exe
 java -server -jar restheart.jar etc/restheart.yml
 ```
-6. Aufrufen des Clients
+
+   Aufrufen des Clients
 ```
 localhost:8080/datacity
 ```
