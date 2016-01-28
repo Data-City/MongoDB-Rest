@@ -14,8 +14,8 @@ users:
       password: changeit
       roles: [users]
 
-    - userid: admin
-      password: changeit
+    - userid: a
+      password: a
       roles: [users, admins]
 
 ## Configuration for db based Identity Manager
